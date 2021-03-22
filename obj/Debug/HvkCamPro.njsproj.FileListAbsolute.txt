@@ -1,0 +1,3 @@
+C:\Users\Erhan Gurbuz\source\repos\TestNodejs\TestNodejs\obj\Debug\HvkCamPro.njsproj.CoreCompileInputs.cache
+C:\Users\Erhan Gurbuz\source\repos\TestNodejs\TestNodejs\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Erhan Gurbuz\source\repos\TestNodejs\TestNodejs\obj\Debug\HvkCamPro.njsprojAssemblyReference.cache
